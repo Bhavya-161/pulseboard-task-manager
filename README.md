@@ -34,7 +34,7 @@ PulseBoard is a full-stack team task management application that allows users to
 ## 🌐 Live Demo
 
 Frontend:
-👉 https://pulseboard-task-manager-ar51vfchd-bhavya-161s-projects.vercel.app
+👉 https://pulseboard-task-manager.vercel.app/
 
 Backend:
 👉 https://pulseboard-task-manager-production.up.railway.app
